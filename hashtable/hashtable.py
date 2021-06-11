@@ -67,7 +67,7 @@ class HashTable:
         # Your code here
 
 
-    def hash_index(self, key):
+    def hash_index(self, key): #git test
         """
         Take an arbitrary key and return a valid integer index
         between within the storage capacity of the hash table.
